@@ -4,3 +4,7 @@ Assignment repository for UNT CSCE1015
 yourEUID
 ## Favorite Professor
 Your Favorite Professor Name
+## EUID
+vrk0030
+## Favorite Professor
+Julie Germain
